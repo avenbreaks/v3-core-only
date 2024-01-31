@@ -1,5 +1,5 @@
 {
-  "name": "@OnlyLayer/v3-core",
+  "name": "@onlylayer/v3-core",
   "description": "🦄 Core smart contracts of ONLY V3",
   "license": "BUSL-1.1",
   "publishConfig": {
